@@ -1,3 +1,4 @@
+![programmer](https://user-images.githubusercontent.com/124287798/225973060-621899ff-dc61-4461-af00-11eeb2bdd9a2.gif)
 <h1 align="center">Hi 👋, I'm Yash Chandrawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
