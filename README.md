@@ -1,4 +1,5 @@
-![programmer](https://user-images.githubusercontent.com/124287798/225973060-621899ff-dc61-4461-af00-11eeb2bdd9a2.gif)
+![LH4O](https://user-images.githubusercontent.com/124287798/225973851-40c66fd2-3241-43c3-a414-3e24af29874d.gif)
+
 <h1 align="center">Hi 👋, I'm Yash Chandrawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
