@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+  <img height="350" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
 </div>
 
 ###
@@ -22,8 +22,6 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<br clear="both">
 
 <p align="left">I'm Yash Chandrawat from Indore<br><br>- 🔭 I’m working as Frontend Web Developer<br>- 📚 I'm currently learning Backend Web Development<br>- ⚡ In my free time you will find me in GYM💪</p>
 
